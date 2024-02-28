@@ -2,7 +2,11 @@
 //  ContentView.swift
 //  WeatherMeThis
 //
-//  Created by lumaa on 2024-02-26.
+
+
+
+//  Created by luma on 2024-02-26.
+
 //
 
 import SwiftUI
@@ -84,3 +88,5 @@ private let itemFormatter: DateFormatter = {
 #Preview {
     ContentView().environment(\.managedObjectContext, PersistenceController.preview.container.viewContext)
 }
+
+//Moa test
