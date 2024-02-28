@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WeatherMeThis
 //
-//  Created by luma on 2024-02-26.
+//  Created by lumaa on 2024-02-26.
 //
 
 import SwiftUI
